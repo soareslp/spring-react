@@ -1,2 +1,2 @@
-# spring-react
- Projeto de Spring Boot + React
+# projeto-spring-angular
+ Projeto de uma API em Spring Boot e AngularJS
